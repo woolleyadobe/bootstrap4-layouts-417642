@@ -49,3 +49,7 @@ body {
 .family-sans {
   font-family: var(--font-family-sans-serif)
 }
+
+.layout-social .layout-icon {
+  font-size: 2em;
+}
